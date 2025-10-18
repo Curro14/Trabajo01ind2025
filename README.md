@@ -1,1 +1,1 @@
-El repositorio contiene 4 commits que he ido subiendo a lo largo que iba haciendo el trabajo, desde la primera estructuración del documento como las dos realizaciones de los problemas. También hay 2 issues que indican los fallos que iba habiendo en el trabajo.
+El repositorio contiene el Trabajo 01 individual de Teoría de la Decisión prácticas de Francisco Espinar Domínguez, donde puede apreciarse no solo el archivo RMD sino el PDF final.

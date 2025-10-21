@@ -1,0 +1,76 @@
+---
+title: "Trabajo01 enunciados"
+output:
+  pdf_document: default
+  html_document: default
+date: "2025-10-21"
+---
+Problema 1: Lanzamiento de un producto tecnológico.
+
+
+Una empresa de tecnología planea lanzar un nuevo dispositivo portátil. Puede optar por un lanzamiento inmediato, esperar 6 meses para mejorar el producto, o cancelar el proyecto. El éxito depende de la reacción del mercado, que es incierta.
+
+Alternativas (decisiones):  
+  
+$$
+\begin{array}{l}
+A_1: \text{Lanzar inmediatamente.} \\
+A_2: \text{Esperar 6 meses para mejorar el producto.} \\
+A_3: \text{Cancelar el proyecto.}
+\end{array}
+$$
+Estados de la naturaleza:  
+  
+$$
+\begin{array}{l}
+S_1: \text{Alta demanda del mercado.} \\
+S_2: \text{Demanda moderada.} \\
+S_3: \text{Baja demanda.}
+\end{array}
+$$
+  
+Pagos esperados (beneficios en millones de euros):
+$$
+\begin{array}{lccc}
+\textbf{Decisión / Estado} & S_1: \text{Alta demanda} & S_2: \text{Demanda moderada} & S_3: \text{Baja demanda} \\[4pt]
+A_1: \text{Lanzar inmediatamente} & 20 & 10 & -5 \\[4pt]
+A_2: \text{Esperar 6 meses} & 15 & 12 & -2 \\[4pt]
+A_3: \text{Cancelar el proyecto} & 0 & 0 & 0
+\end{array}
+$$
+
+
+
+
+
+Problema 2: Inversión en energía renovable.  
+
+
+Una empresa energética debe decidir en qué tipo de energía renovable invertir: solar o eólica. El rendimiento de cada inversión depende de factores climáticos inciertos durante los próximos 5 años.
+
+Alternativas (decisiones):  
+  
+$$
+\begin{array}{l}
+A_1: \text{Invertir en energía solar} \\
+A_2: \text{Invertir en energía eólica.}
+\end{array}
+$$
+Estados de la naturaleza:  
+  
+$$
+\begin{array}{l}
+S_1: \text{Clima mayormente soleado.} \\
+S_2: \text{Clima mayormente ventoso.} \\
+S_3: \text{Clima inestable (ni sol ni viento predominante).}
+\end{array}
+$$
+Pagos esperados (beneficios netos en millones de euros):  
+  
+$$
+\begin{array}{lccc}
+\textbf{Decisión / Estado} & S_1: \text{Soleado} & S_2: \text{Ventoso} & S_3: \text{Inestable} \\[4pt]
+A_1: \text{Energía solar} & 15 & 6 & 8 \\[4pt]
+A_2: \text{Energía eólica} & 9 & 14 & 7
+\end{array}
+$$
